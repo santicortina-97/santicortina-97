@@ -1,6 +1,9 @@
 ### Hola! Mi nombre es Santiago Cortina 👋
-
+<div align="center">
 <h1 align="center"> Hola! Mi nombre es Santiago Cortina 👋</h1>
+</div>
+
+<h2 align="center"> Mis Skills </h2>
 
 <!--
 **santicortina-97/santicortina-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
